@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     UninstallerTheme {
-        Greeting("Android")
+        Greeting("Android hi")
     }
 }
